@@ -9,6 +9,7 @@ import android.os.Message;
 
 import com.f.use.printdemo.R;
 import com.f.use.printdemo.common.BasePresenter;
+import com.f.use.printdemo.printUtils.DeviceConnFactoryManager;
 import com.f.use.printdemo.printUtils.PrinterCommand;
 import com.f.use.printdemo.printUtils.ThreadPool;
 import com.f.use.printdemo.utils.Logger;
@@ -21,7 +22,7 @@ import org.greenrobot.eventbus.Subscribe;
 
 import java.util.Vector;
 
-import static com.f.use.printdemo.print.DeviceConnFactoryManager.CONN_STATE_FAILED;
+import static com.f.use.printdemo.printUtils.DeviceConnFactoryManager.CONN_STATE_FAILED;
 
 /**
  * Created by fj on 2017/11/21.

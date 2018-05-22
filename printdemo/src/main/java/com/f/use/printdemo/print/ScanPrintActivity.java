@@ -45,6 +45,8 @@ import permissions.dispatcher.RuntimePermissions;
 /**
  * Created by f_ on 2018/5/22.
  * 扫描打印
+ * 标签打印——佳博打印机——型号ZH—380
+ * （佳博（Gprinter） PT380/ZH380热敏手持便携式小票标签条码蓝牙打印机无线 ZH380（标签打印+小票打印））
  */
 
 @RuntimePermissions
