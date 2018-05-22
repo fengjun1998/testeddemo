@@ -12,6 +12,10 @@ import android.util.Log;
 
 import com.f.use.printdemo.PrintApplication;
 import com.f.use.printdemo.R;
+import com.f.use.printdemo.printUtils.PrinterCommand;
+import com.f.use.printdemo.printUtils.ThreadFactoryBuilder;
+import com.f.use.printdemo.printUtils.ThreadPool;
+import com.f.use.printdemo.printUtils.Utils;
 import com.gprinter.io.BluetoothPort;
 import com.gprinter.io.EthernetPort;
 import com.gprinter.io.PortManager;

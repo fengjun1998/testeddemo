@@ -1,4 +1,4 @@
-package com.f.use.printdemo.print;
+package com.f.use.printdemo.printUtils;
 
 import android.content.Context;
 import android.hardware.usb.UsbDevice;

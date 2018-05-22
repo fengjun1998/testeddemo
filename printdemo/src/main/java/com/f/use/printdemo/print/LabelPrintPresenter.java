@@ -9,6 +9,8 @@ import android.os.Message;
 
 import com.f.use.printdemo.R;
 import com.f.use.printdemo.common.BasePresenter;
+import com.f.use.printdemo.printUtils.PrinterCommand;
+import com.f.use.printdemo.printUtils.ThreadPool;
 import com.f.use.printdemo.utils.Logger;
 import com.gprinter.command.EscCommand;
 import com.gprinter.command.LabelCommand;

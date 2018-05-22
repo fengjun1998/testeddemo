@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gprintersdkv1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/printdemo/libs/gprintersdkv1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
