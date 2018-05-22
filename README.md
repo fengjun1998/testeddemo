@@ -1,1 +1,1 @@
-printdemo:Android蓝牙打印
+printdemo：Android蓝牙打印
