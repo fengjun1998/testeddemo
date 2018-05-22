@@ -21,6 +21,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b758b605200e971cb2dd01aea7ebde4fb8df20d">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/printdemo/build/intermediates/pre-dexed/debug/classes_1725a3debec98ef76bad72308c9980ba8cf069d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/printdemo/libs/gprintersdkv1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1608f34bdd6cbb9726839aa2f870f2b2fc1c6cbc">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/printdemo/build/intermediates/pre-dexed/debug/gprintersdkv1_3c14b6e9187a32d8b8e2d856210ed2c4330321fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/f_/.android/build-cache/5f40652f40d7daa0829bb4a329ac41c62197946e/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"

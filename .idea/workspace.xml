@@ -24,108 +24,7 @@
     <favorites_list name="demo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DeviceConnFactoryManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/DeviceConnFactoryManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BondEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/BondEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IPrintContract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/IPrintContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LabelConnEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/LabelConnEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LabelPrintPresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/LabelPrintPresenter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManageDevicePresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/ManageDevicePresenter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintLabelEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/PrintLabelEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/PrintType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScanPrintActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/ScanPrintActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnBondDeviceAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/UnBondDeviceAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -3973,14 +3872,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
@@ -3988,6 +3880,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="device.picker.selection" value="b060b430" />
   </component>
   <component name="RunManager" selected="Android App.printdemo">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -4276,7 +4169,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <configuration default="false" name="printdemo" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration default="false" name="printdemo" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="printdemo" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -4363,7 +4256,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -4482,14 +4375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/LabelPrintPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/ManageDevicePresenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -4524,8 +4409,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/UnBondDeviceAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="95">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printdemo/src/main/java/com/f/use/printdemo/print/LabelPrintPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
