@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_main"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_height"
+        android:background="@color/colorPrimary"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="扫描打印"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_connect_tip"
+        style="@style/tv_print_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white_main"
+        android:gravity="center_vertical"
+        android:padding="@dimen/dimen_distance"
+        android:text="已连接打印机" />
+
+    <View style="@style/view_grey_horizontal" />
+
+    <LinearLayout
+        android:id="@+id/li_bonded"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_distance">
+
+            <ImageView
+                android:id="@+id/iv_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/printer_connected" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/dimen_distance"
+                android:layout_toRightOf="@+id/iv_icon"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    style="@style/tv_print_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="jlpdfdf" />
+
+                <TextView
+                    android:id="@+id/tv_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/tv_name"
+                    android:layout_below="@+id/tv_name"
+                    tools:text="345:34:23:23" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <View style="@style/view_grey_horizontal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_delete"
+                style="@style/tv_print_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="@dimen/dimen_distance"
+                android:layout_marginRight="@dimen/dimen_distance"
+                android:layout_marginTop="@dimen/dimen_distance"
+                android:text="解绑" />
+
+            <TextView
+                android:id="@+id/tv_test"
+                style="@style/tv_print_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/dimen_distance"
+                android:layout_toLeftOf="@+id/tv_delete"
+                android:text="打印测试页" />
+
+
+        </LinearLayout>
+
+        <View style="@style/view_grey_horizontal" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/dimen_distance"
+        android:paddingRight="@dimen/dimen_distance">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_scan"
+                style="@style/tv_print_title"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/dimen_height"
+                android:gravity="center_vertical"
+                android:text="扫描设备" />
+
+            <com.github.ybq.android.spinkit.SpinKitView
+                android:id="@+id/spin_kit"
+                style="@style/SpinKitView.Circle"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/dimen_distance"
+                android:layout_toRightOf="@+id/tv_scan"
+                app:SpinKit_Color="@color/gray_hint" />
+
+            <CheckBox
+                android:id="@+id/cb_scan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="@dimen/dimen_distance"
+                android:background="@drawable/switch_selector"
+                android:button="@null" />
+
+        </RelativeLayout>
+
+
+        <View style="@style/view_grey_horizontal" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_un_bond_device_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="#000000" />
+
+    </LinearLayout>
+
+</LinearLayout>
