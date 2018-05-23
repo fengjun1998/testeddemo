@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="tv_print_title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gray_text</item>
+    </style>
+
+    <style name="view_grey_horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dimen_distance_line</item>
+        <item name="android:background">@color/gray_shallow</item>
+        <item name="android:layout_marginLeft">@dimen/dimen_distance</item>
+        <item name="android:layout_marginRight">@dimen/dimen_distance</item>
+    </style>
+
+    <style name="view_grey_vertical">
+        <item name="android:layout_width">@dimen/dimen_distance_line</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/gray_shallow</item>
+        <item name="android:layout_marginTop">@dimen/dimen_distance</item>
+        <item name="android:layout_marginBottom">@dimen/dimen_distance</item>
+    </style>
+
+    <style name="main_page_text">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/gray_text</item>
+    </style>
+
+    <style name="popup_window_appointment">
+        <item name="android:windowEnterAnimation">@anim/anim_popup_window_appointment_show</item>
+        <item name="android:windowExitAnimation">@anim/anim_popup_window_appointment_hide</item>
+    </style>
+</resources>

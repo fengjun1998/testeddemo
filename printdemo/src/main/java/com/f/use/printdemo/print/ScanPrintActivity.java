@@ -20,9 +20,9 @@ import android.widget.TextView;
 
 import com.f.use.printdemo.R;
 import com.f.use.printdemo.common.BaseActivity;
-import com.f.use.printdemo.utils.FullyLinearLayoutManager;
-import com.f.use.printdemo.utils.PermissionDialogUtils;
-import com.f.use.printdemo.utils.PrintCache;
+import com.f.test.library.utils.FullyLinearLayoutManager;
+import com.f.test.library.utils.PermissionDialogUtils;
+import com.f.test.library.utils.PrintCache;
 import com.f.use.printdemo.widget.BindDevicePopupWindow;
 import com.github.ybq.android.spinkit.SpinKitView;
 import com.mikepenz.itemanimators.ScaleXAnimator;

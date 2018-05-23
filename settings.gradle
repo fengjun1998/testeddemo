@@ -1,1 +1,1 @@
-include ':app', ':printdemo', ':library', ':weexdemo'
+include ':app', ':printdemo', ':library', ':weexdemo', ':wxsdk'

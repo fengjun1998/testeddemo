@@ -1,8 +1,8 @@
 package com.f.use.printdemo.common;
 
+
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.RecyclerView.ViewHolder;
 import android.view.LayoutInflater;
 import android.view.View;
 
@@ -14,7 +14,7 @@ import java.util.List;
  * RecyclerView的adapter基类
  */
 
-public abstract class BaseRecycleViewAdapter<T extends ViewHolder, D extends Object> extends RecyclerView.Adapter<T> {
+public abstract class BaseRecycleViewAdapter<T extends RecyclerView.ViewHolder, D extends Object> extends RecyclerView.Adapter<T> {
 
     private OnItemClickListener onItemClickListener;
 
@@ -212,8 +212,8 @@ public abstract class BaseRecycleViewAdapter<T extends ViewHolder, D extends Obj
     }
 
     // 设置监听
-    public void setOnItemClickListener(OnItemClickListener onItemClickListener) {
-        this.onItemClickListener = onItemClickListener;
+    public void setOnItemClickListener(OnItemClickListener listener) {
+        onItemClickListener = listener;
     }
 
     // 监听

@@ -12,7 +12,7 @@ import com.f.use.printdemo.common.BasePresenter;
 import com.f.use.printdemo.printUtils.DeviceConnFactoryManager;
 import com.f.use.printdemo.printUtils.PrinterCommand;
 import com.f.use.printdemo.printUtils.ThreadPool;
-import com.f.use.printdemo.utils.Logger;
+import com.f.test.library.utils.Logger;
 import com.gprinter.command.EscCommand;
 import com.gprinter.command.LabelCommand;
 

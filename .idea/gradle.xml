@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/printdemo" />
             <option value="$PROJECT_DIR$/weexdemo" />
+            <option value="$PROJECT_DIR$/wxsdk" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

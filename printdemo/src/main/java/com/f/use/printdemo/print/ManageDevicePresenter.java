@@ -6,8 +6,8 @@ import android.os.Handler;
 import android.os.HandlerThread;
 
 import com.f.use.printdemo.common.BasePresenter;
-import com.f.use.printdemo.utils.ClsUtils;
-import com.f.use.printdemo.utils.Logger;
+import com.f.use.printdemo.printUtils.ClsUtils;
+import com.f.test.library.utils.Logger;
 
 import org.apache.commons.lang3.StringUtils;
 

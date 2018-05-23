@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/fec9ec1edee4e9429eace172ddad7336a40314c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_96b64ace94d3b094eeb0390e2292fd008af0028a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85a62a18bca3647b65a7cc2384ea0d780a12b672">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_1725a3debec98ef76bad72308c9980ba8cf069d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/wxsdk/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ded43094398cfbd34e499ea837e0ae99a567d081">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_d8ab196c8c2dd2a353ce1f01fc918879b79bc862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/c9c2dddd86bd09729073b4d582ac0c5b3c3cf229/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_4747f03acd23f9825fcc0295d588cde16242d5f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/c7a7da0c6551f1e8401b9305acbab8390623ca3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_d39b9eba375476b60ef1353be11794bd8f2bd371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/wxsdk/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="145fbb0a4e877030d1e89cc8cb7edb4fab2df6b1">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_d8ab196c8c2dd2a353ce1f01fc918879b79bc862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/40f551828f70c7bced9481af0477703124ba837f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_2cd2fe34a53aea04ab5721b575f414e07985afaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/c47d17c4db9ea5d3ae9ae10f3bb0d2bd0213f593/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_50b5c6f19017d6e6f019329c5c6ab87dbfe30378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/glide-3.7.0_780667b9431a6b84636cfa73bf075b53051528f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/eventbus-3.0.0_2b3d6ddccb1aab5c172fec036f5e013ec22d6470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.0/b258209549457d03e912ec4641735fc88048df99/butterknife-annotations-8.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b258209549457d03e912ec4641735fc88048df99">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.0_ed27c244f5d21f28fa1f25174a6d93f01bb63900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/picasso-2.5.2_4f58359e7e40eeeee4d619c83a10a6aafb8fd8da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/WorkSpace/Projects/test_/demo/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="85a62a18bca3647b65a7cc2384ea0d780a12b672">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_1725a3debec98ef76bad72308c9980ba8cf069d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/f59f472270094b9c5a09e3f774cc915ba820e439/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_900940ed4a50f7196033a384320aa332254f8041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/85c188fbbd4edd75cb0a5203cf422563970b3f8a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_e83c232eaf48d4ef3e5579b080c12c658364f463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/c13bf9c77e5cdee5b8ee9ee6d0f0294c4f7540e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="178a142a25abea83b5bbb8c2660e6fb6c1ac7eb1">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_2e8cc08d5a1559014f1e2327392549d594b21332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/commons-lang3-3.4_aeb4466f5ea7abf1e429f74bc1921de2a38bf226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/366866cc2b71ae71e676b0e867e40d473236ae23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_6ccf8befe5cb51ec52bf21b012f07490e9fcac96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/Android/Android-SDK-mac/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_eb81787e88396e2c40f17df37384791762450c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/e0b2af2b994190b707cfb9d007dd8feeac658079/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_c8eb0642f9a75fa188fe95680169f5419a610fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/c4a79f74cc469b4c5a11562de1775f1832dee54d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_65619bdf06faade389ae4aa9cce91cf01de30fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/Android/Android-SDK-mac/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_47b001667eff69f96e03e2f3f0a5a7c9b1440c42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/ed0892f5c749cdf48d385a888d15371673276b6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_21bbf084253170c72dc44efb7ef2bde7601a26f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/f_/.android/build-cache/41681c6ae733c883bacf5cb7c402d6c8483f95ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/f_/WorkSpace/Projects/test_/demo/weexdemo/build/intermediates/pre-dexed/debug/classes_cf50408daac83a92e225f0edf66b2f400f06c228.jar" />
+    </item>
+
+</items>
